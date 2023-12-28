@@ -22,6 +22,7 @@ This project showcases a step-by-step guide on connecting to a Db2 database on t
 - ibm_db Python library
 - IBM Db2 Database (Cloud)
 - Pandas library
+- SQL
 
 ## Connect to Db2 database on Cloud using Python
 
